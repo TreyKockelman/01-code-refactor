@@ -26,4 +26,4 @@ https://treykockelman.github.io/01-code-refactor/
 
 ## Screenshot
 
-code-recapture-screenshot.PNG
+![Alt text](./assets/images/code-recapture-screenshot.PNG "Screenshot")
